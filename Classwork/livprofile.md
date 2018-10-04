@@ -2,10 +2,12 @@
 ***
 Here is a list of reasons I joined HIST 4006A:
 ​
-- improve my _`_digital humanities skills__
-- learn _more_ about codicology and palaography
+- be introduced to the __digital humanities__
+- learn _more_ about codicology and paleography 
+- look at *awesome* medieval manuscripts
 - make an **online project** I can put on my CV
-- meet *awesome* medievalists
+- hang out with Kate in second semester 
+
 ​
 ### More about me
 Here is a link to [my Hcommons profile](https://hcommons.org/members/katebrasseur/)
